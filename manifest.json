@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/darkoinc/ssm_ota_testing/releases/download/Overnight_Test_2/Losant_OTA_Test.ino.esp32.bin",
-  "sha256": "f5d488baf1ae7867a57e31e9a43ebdc98f3fdcd49a45c52e9c641f3b2343264f"
+  "version": "1.0.3",
+  "url": "https://github.com/darkoinc/ssm_ota_testing/releases/download/v1.0.3_Test/Losant_OTA_Test.ino.esp32.bin",
+  "sha256": "a925ef61fd53f49ea89a8691b925cf2eca53818c03eaa022b8cf3ea4ee55811f"
 }
