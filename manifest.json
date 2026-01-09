@@ -1,5 +1,5 @@
 {
   "version": "2.1.3",
-  "url": "https://github.com/darkoinc/ssm_ota_testing/releases/download/v2.1.3/darko_standalone_I2C_sensor_manager_v2.1.3.bin",
-  "sha256": "af0cee38d04dc5967daa784dee3f0ae02c7f2bbaf991d7151aff66cf6d5f408f"
+  "url": "https://github.com/darkoinc/ssm_ota_testing/releases/download/v1.0.5/Losant_OTA_Test.ino.esp32.bin",
+  "sha256": "e4c59d3c565e5ed08fef6f26a497e55cc8885f3f7ef8fc88d9d32e8e2f5ac626"
 }
