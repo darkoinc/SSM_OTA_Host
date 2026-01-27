@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
-  "url": "https://github.com/darkoinc/ssm_ota_testing/releases/download/v2.1.4/darko_standalone_I2C_sensor_manager.ino.esp32.bin",
-  "sha256": "5a63ca6a7330c253be89df6bf51319d9ca1039aa99badfb9b63f27eb9ce99fc1"
+  "version": "3.0.0",
+  "url": "https://github.com/darkoinc/ssm_ota_testing/releases/download/v3.0.0/darko_standalone_I2C_sensor_manager.ino.esp32.bin",
+  "sha256": "8b50a2bb7f84442bbb941ce91c4443c9a385da6cc0e003aa6b0825cd63ba4491"
 }
