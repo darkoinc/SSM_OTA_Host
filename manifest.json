@@ -1,6 +1,6 @@
 {
   "version": "4.0.0",
   "compatibleHardwareVersion": "3.0.0",
-  "url": "https://github.com/darkoinc/SSM_OTA_Host/releases/download/v4.0.0_RC4/firmware_SSM_4.0.0_RC4.bin",
-  "sha256": "0e0a37f16fc09606ac2b3bd0601cd9fdd90bb74900d19e82f84b769da361c4af"
+  "url": "https://github.com/darkoinc/SSM_OTA_Host/releases/download/v4.0.0/firmware_SSM_v4.0.0_TGT.bin",
+  "sha256": "16aed1c7db4d48971f3225f4c4e7db511a49b3b1cd31cc8afb839e17458e1d52"
 }
